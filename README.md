@@ -1,45 +1,51 @@
-# instagram-login-clone
-Clone da interface de login do Instagram desenvolvido com HTML, CSS e JavaScript, com foco em estrutura front-end, fidelidade visual e responsividade.
-Instagram Login Clone
+# Instagram Login Clone
 
-Clone da interface da tela de login do Instagram, desenvolvido com HTML, CSS e JavaScript, com foco em estrutura front-end, fidelidade visual e responsividade.
+Clone da interface de login do Instagram desenvolvido com **HTML, CSS e JavaScript**, com foco em **estrutura front-end, fidelidade visual e responsividade**.
 
-Visão geral
+---
 
-Este projeto tem como objetivo reproduzir a interface da tela de login do Instagram, aplicando boas práticas de HTML semântico, organização de CSS e interações básicas com JavaScript.
-O foco está na construção de um layout real de produto, com atenção à hierarquia visual e experiência do usuário.
+## 🔍 Visão geral
 
-Tecnologias utilizadas
+Este projeto tem como objetivo reproduzir a interface da tela de login do Instagram, aplicando boas práticas de **HTML semântico**, organização de **CSS** e interações básicas com **JavaScript**.
 
-HTML5
+O foco está na construção de um layout real de produto, com atenção à **hierarquia visual** e à **experiência do usuário**.
 
-CSS3
+---
 
-JavaScript
+## 🛠 Tecnologias utilizadas
 
-Principais aprendizados
+- HTML5  
+- CSS3  
+- JavaScript  
 
-Estruturação de páginas utilizando HTML semântico
+---
 
-Organização e manutenção de estilos em CSS
+## 🎯 Principais aprendizados
 
-Reprodução fiel de layouts reais
+- Estruturação de páginas utilizando **HTML semântico**
+- Organização e manutenção de estilos em **CSS**
+- Reprodução fiel de layouts reais
+- Aplicação de **responsividade** para diferentes tamanhos de tela
+- Implementação de interações simples com JavaScript
 
-Aplicação de responsividade para diferentes tamanhos de tela
+---
 
-Implementação de interações simples com JavaScript
+## 📂 Como executar o projeto
 
-Demonstração
+1. Clone o repositório  
+2. Abra o arquivo `index.html` diretamente no navegador  
 
-Deploy: (adicione aqui o link do GitHub Pages ou Netlify)
-Repositório: (link do próprio projeto, se quiser duplicar)
+---
 
-Observações
+## 📌 Observações
 
-Este projeto foi desenvolvido com fins educacionais, focado no aprimoramento de habilidades em desenvolvimento front-end.
+Projeto desenvolvido com fins educacionais, focado no aprimoramento de habilidades em **desenvolvimento front-end**.
 
-Como executar localmente
+1. Clone o repositório  
+2. Abra o arquivo `index.html` no navegador  
 
-Clone o repositório
+---
 
-Abra o arquivo index.html no navegador
+## Observações
+
+Projeto desenvolvido com fins educacionais, focado no aprimoramento de habilidades em **desenvolvimento front-end**.
