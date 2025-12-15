@@ -1,13 +1,12 @@
 # Instagram Login Clone
 
-Clone da interface de login do Instagram desenvolvido com **HTML, CSS e JavaScript**, com foco em **estrutura front-end, fidelidade visual e responsividade**.
+Clone da interface de login do Instagram desenvolvido com **HTML, CSS **, com foco em **estrutura front-end, fidelidade visual e responsividade**.
 
 ---
 
 ## 🔍 Visão geral
 
-Este projeto tem como objetivo reproduzir a interface da tela de login do Instagram, aplicando boas práticas de **HTML semântico**, organização de **CSS** e interações básicas com **JavaScript**.
-
+Este projeto tem como objetivo reproduzir a interface da tela de login do Instagram, aplicando boas práticas de **HTML semântico**, organização de **CSS**
 O foco está na construção de um layout real de produto, com atenção à **hierarquia visual** e à **experiência do usuário**.
 
 ---
@@ -16,7 +15,6 @@ O foco está na construção de um layout real de produto, com atenção à **hi
 
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ---
 
@@ -26,7 +24,6 @@ O foco está na construção de um layout real de produto, com atenção à **hi
 - Organização e manutenção de estilos em **CSS**
 - Reprodução fiel de layouts reais
 - Aplicação de **responsividade** para diferentes tamanhos de tela
-- Implementação de interações simples com JavaScript
 
 ---
 
